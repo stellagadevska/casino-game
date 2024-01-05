@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.number-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  /* gap: 10px; */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.betAmount {
+  padding-bottom: 50px;
+}

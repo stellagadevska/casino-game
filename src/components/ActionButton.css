@@ -1,0 +1,20 @@
+@media (min-width: 380px) {
+  .button {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (min-width: 600px) {
+  .button {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+@media (min-width: 800px) {
+  .button {
+    width: 20px;
+    height: 20px;
+  }
+}
