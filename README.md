@@ -1,5 +1,9 @@
 # Casino Game
 
+### `npm install`
+
+Need to install the node modules first.
+
 ### `npm start`
 
 Runs the app in the development mode.\
